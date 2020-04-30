@@ -1,0 +1,1 @@
+Here is I wouldn't say a draft but it is another alternative to what I was doing in the other file. Again this is a simple website using html5, css3, and vanila javascript. Very basic using static pages, again might go in a different directiion.
